@@ -1,0 +1,6 @@
+reading-between-the-frames:
+  d-vlog:
+  d-vlog-original:
+  daic-woz: "/mnt/zetadata/yangyujie/workspace/depression/data/Daic_Woz"
+  e-daic-woz: "/mnt/zetadata/yangyujie/workspace/depression/data/EDaic_Woz"
+  num_workers: 0
